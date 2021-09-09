@@ -1,0 +1,82 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"periphery/libraries/UniswapV2LiquidityMathLibrary.sol": "UniswapV2LiquidityMathLibrary"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"@uniswap/lib/contracts/libraries/Babylonian.sol": {
+			"keccak256": "0xeb1c2a281a00f4660775f75ccfa1e51fbe1d75f86aeb9d0d297151ecdb900177",
+			"urls": [
+				"bzz-raw://68515f0265381bddfb1d1356ea10ce4e5784276fc09f197fcdcedfa5c75cc069",
+				"dweb:/ipfs/QmXWVVPnuJwRUAu3Qpu1s7Fyc5WPQxmZPczVEe5cJ5wVHZ"
+			]
+		},
+		"@uniswap/lib/contracts/libraries/FullMath.sol": {
+			"keccak256": "0xc4ffcf28169f73fc9fdd1f82345d6d4fcccf3fd5aea83c133437c25e4e0950a9",
+			"urls": [
+				"bzz-raw://c9257a47501005f0a648bc4801ef4abc33843681aaf03a6d0c43d46b69e37407",
+				"dweb:/ipfs/QmciHvDrqhxs5fjsrm9aNq29FZXpunMn17n2wWj83Zsh3B"
+			]
+		},
+		"@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol": {
+			"keccak256": "0xe5905c0989cf5a865ed9bb7b9252536ca011c5b744017a82a7d4443b9c00a891",
+			"urls": [
+				"bzz-raw://5d2a90a0a796491507462a3da18c3f8819721d571572d765a2207c35bf0a0389",
+				"dweb:/ipfs/Qmf9ACYiT3qzjgsYuhm866FBdiBpRMXAPpQhSFbgqcyhHt"
+			]
+		},
+		"@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol": {
+			"keccak256": "0x7c9bc70e5996c763e02ff38905282bc24fb242b0ef2519a003b36824fc524a4b",
+			"urls": [
+				"bzz-raw://85d5ad2dd23ee127f40907a12865a1e8cb5828814f6f2480285e1827dd72dedf",
+				"dweb:/ipfs/QmayKQWJgWmr46DqWseADyUanmqxh662hPNdAkdHRjiQQH"
+			]
+		},
+		"periphery/libraries/SafeMath.sol": {
+			"keccak256": "0x977f38b601109ee7a0c1b70a32e08b7aecf5b4672bdea39fa6b7fec810943b80",
+			"urls": [
+				"bzz-raw://50296b94e299cd690f4a7966a93ac6ac58128080b0a14fdb1c2e07d71b50930c",
+				"dweb:/ipfs/QmSCqtcNbmcXUekQk2NYGDQcWt34sASe6ru1v2FLBX9coc"
+			]
+		},
+		"periphery/libraries/UniswapV2Library.sol": {
+			"keccak256": "0x67321dd350ab6371238b4cb50a23ae37ea9511dd4bca5ae240ea0a20504224b9",
+			"urls": [
+				"bzz-raw://6b42a3777e21df7d8a79084707afebd6724672f74f2ebebef7ba39d92d03c25b",
+				"dweb:/ipfs/Qmae8N42W2eY7EcVxxoduG3N1xUixZzNEu21mRPyfSwmZt"
+			]
+		},
+		"periphery/libraries/UniswapV2LiquidityMathLibrary.sol": {
+			"keccak256": "0x434c4b12ea203647eb3ca2dd93e9acdf846e67cd085e47c1158bb9a899227547",
+			"urls": [
+				"bzz-raw://fb5fee175987a541ddc120a39dd6917daaae018a25d314e735303524a7698ef4",
+				"dweb:/ipfs/QmeA9uH7iEHTR3i1Lt9KQ1HGfYNe6uTESiKuA6eByBR3e1"
+			]
+		}
+	},
+	"version": 1
+}
